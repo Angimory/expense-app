@@ -1,3 +1,40 @@
+Link to flowchart
+https://lucid.app/publicSegments/view/1a3975a9-f8fa-4530-8717-a64c5e3e26c6/image.png 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
